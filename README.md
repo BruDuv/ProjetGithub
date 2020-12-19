@@ -171,3 +171,8 @@ Dans le fichier javascript, il s'agit de récupérer les coordonnées lors d'un 
         </body>
         <script src ="js/script.js"></script>
     </html>
+
+
+### Bibliographie
+
+Requête [XMLHttpRequest (XHR)](https://developer.mozilla.org/fr/docs/Web/API/XMLHttpRequest)
