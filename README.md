@@ -23,6 +23,7 @@ Fichier php
     echo = $query
 
 Fichier js
+
     //création de la variable map
     var map = L.map('map');
     //appel osm//
