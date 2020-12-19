@@ -30,6 +30,8 @@ C'est dans le fichier php que la connexion à la base de données se fait, puis 
 Dans le fichier javascript, il s'agit de récupérer les coordonnées lors d'un clic sur la carte puis de les envoyer via une requête xhr.
 >Les objets XMLHttpRequest (XHR) permettent d'interagir avec des serveurs. On peut récupérer des données à partir d'une URL sans avoir à rafraîchir complètement la page. Cela permet à une page web d'être mise à jour sans perturber les actions de l'utilisateur. XMLHttpRequest est beaucoup utilisé par l'approche AJAX.
 
+Source : [MDN Web Docs](https://developer.mozilla.org/fr/docs/Web/API/XMLHttpRequest)
+
     //création de la variable map
     var map = L.map('map');
     //appel osm
